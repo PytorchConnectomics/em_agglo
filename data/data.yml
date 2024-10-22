@@ -1,0 +1,12 @@
+snemi:
+  aff: "data/snemi/pred_swinunetr.h5"
+  gt: "data/snemi/test-labels.h5"
+
+axonem-m:
+  aff: ""
+
+axonem-h:
+  aff: ""
+
+j0126:
+  aff: ""
